@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "name": "easternpalace.net",
+    "regions": [
+        "lhr1"
+    ],
+    "github": {
+        "enabled": false
+    }
+}
