@@ -1,6 +1,7 @@
 {
     "version": 2,
-    "name": "easternpalace.net",
+    "name": "eastern-palace",
+    "alias": ["easternpalace.net", "www.easternpalace.net"],
     "regions": [
         "lhr1"
     ],
