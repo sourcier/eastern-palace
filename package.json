@@ -1,0 +1,14 @@
+{
+  "name": "eastern-palace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sourcier/eastern-palace.git",
+  "author": "Roger Rrajaratnam <roger@sourcier.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^13.0.2"
+  },
+  "scripts": {
+    "start": "serve -s ."
+  }
+}
